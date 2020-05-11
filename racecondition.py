@@ -5,7 +5,7 @@ a = 0
   
 def increment(): 
     """ 
-    function to increment global variable x 
+    function to increment global variable a 
     """
     global a 
     a += 1
