@@ -1,5 +1,4 @@
-# Python3 implementation of FIFO page 
-# replacement in Operating Systems. 
+# implementation of FIFO page replacement algorithm in operating system
 from queue import Queue  
   
 # Function to find page faults using FIFO  
